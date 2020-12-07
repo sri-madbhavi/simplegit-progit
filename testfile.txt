@@ -1,2 +1,4 @@
 This is text for the master branch
 Adding a line for fast forward
+One more line
+
