@@ -1,3 +1,1 @@
-Some test text that we're not happy with and would like to unmodify later.
-
-Second line is to be deleted
+Some line
